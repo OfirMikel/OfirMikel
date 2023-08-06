@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js, MongoDB, node.js, Kotlin**
 
-- 👨‍💻 My portfolio [https://ofirmikel.github.io/Portfolio/](https://ofirmikel.github.io/Portfolio/)
+- 👨‍💻 My portfolio https://ofirmikel.github.io/Portfolio/
 
 - 📫 How to reach me **mikelofir@gmail.com**
 
