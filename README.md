@@ -1,4 +1,4 @@
-<img align="center" alt="flying cat" width="350" src= "https://cliply.co/wp-content/uploads/2021/08/472108440_HELLO_STICKER_400px.gif">
+<img align="center" alt="hello" width="50" src= "https://cliply.co/wp-content/uploads/2021/08/472108440_HELLO_STICKER_400px.gif">
 <h1 align="center">I'm Ofir Mikel</h1>
 <img align="center" alt="flying cat" width="900" src= "https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif">
 <h4 align="center">A computer science student , passionate frontend and mobile developer from Israel</h4>
