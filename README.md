@@ -80,13 +80,13 @@
 <h2 align="left">When I am not programming I like to: </h2>
 <img align="left" src="climbing.gif"  width="400" height= "630" alt="climbing" />
 <p>
-        <img align="center" src="https://media.tenor.com/8GgvLjlWbOsAAAAC/chess.gif" height= "157 width="300" alt="chess" />
+        <img align="center" src="https://media.tenor.com/8GgvLjlWbOsAAAAC/chess.gif" height= "157" width="350" alt="chess" />
         <br>
-        <img align="center" src="eldenring.gif"  width="300" height= "157" alt="eldenring" />
+        <img align="center" src="eldenring.gif"  width="350" height= "157" alt="eldenring" />
         <br>
-        <img align="center" src="hogwartslegecy.gif"  width="300" height= "157 alt="hogwartslegecy" />
+        <img align="center" src="hogwartslegecy.gif"  width="350" height= "157 alt="hogwartslegecy" />
         <br>
-        <img align="center" src="rocketleague.gif"  width="300"  height= "157" alt="rocketleague" />
+        <img align="center" src="rocketleague.gif"  width="350"  height= "157" alt="rocketleague" />
 </p>
 
 <img align="center" alt="flying cat" width="900" src= "https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif">
