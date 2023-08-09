@@ -84,7 +84,7 @@
         <img align="center" src="https://media.tenor.com/M2oGsrAT9tAAAAAC/harry-potter-hogwarts-legacy.gif"  width="333" alt="hogwartslegecy" />
         <br>
         <img align="center" src="rocketleague.gif"  width="333" alt="rocketleague" />
-        <img align="center" src=""  width="333" alt="climbing.gif" />
+        <img align="center" src="climbing.gif"  width="333" alt="climbing" />
 
 </p>
 
