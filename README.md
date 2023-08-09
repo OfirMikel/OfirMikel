@@ -76,7 +76,16 @@
         </a>
 </p>
 <br>
-<h2 align="left">In the spare time I like to play: </h2>
-<p><img align="center" src="https://media.tenor.com/8GgvLjlWbOsAAAAC/chess.gif"  width="900" alt="chess" /></p>
+<br>
+<h2 align="left">When I am not programming I like to play: </h2>
+<p>
+        <img align="center" src="https://media.tenor.com/8GgvLjlWbOsAAAAC/chess.gif"  width="333" alt="chess" />
+        <img align="center" src=""  width="333" alt="eldenring" />
+        <img align="center" src=""  width="333" alt="hogwartslegecy" />
+        <br>
+        <img align="center" src=""  width="333" alt="rocketleague" />
+        <img align="center" src=""  width="333" alt="" />
+
+</p>
 
 <img align="center" alt="flying cat" width="900" src= "https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif">
