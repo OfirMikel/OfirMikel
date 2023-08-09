@@ -80,4 +80,4 @@
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
-<img align="center" alt="skydiving" width="900" src= "skydiving.gif">
+<img align="center" alt="skydiving" width="1000" src= "skydiving.gif">
