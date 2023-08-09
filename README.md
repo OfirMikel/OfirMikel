@@ -80,11 +80,11 @@
 <h2 align="left">When I am not programming I like to play: </h2>
 <p>
         <img align="center" src="https://media.tenor.com/8GgvLjlWbOsAAAAC/chess.gif"  width="333" alt="chess" />
-        <img align="center" src=""  width="333" alt="eldenring" />
-        <img align="center" src=""  width="333" alt="hogwartslegecy" />
+        <img align="center" src="eldenring.gif"  width="333" alt="eldenring" />
+        <img align="center" src="https://media.tenor.com/M2oGsrAT9tAAAAAC/harry-potter-hogwarts-legacy.gif"  width="333" alt="hogwartslegecy" />
         <br>
-        <img align="center" src=""  width="333" alt="rocketleague" />
-        <img align="center" src=""  width="333" alt="" />
+        <img align="center" src="rocketleague.gif"  width="333" alt="rocketleague" />
+        <img align="center" src=""  width="333" alt="climbing.gif" />
 
 </p>
 
