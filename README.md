@@ -78,6 +78,7 @@
 <br>
 <br>
 <h2 align="left">When I am not programming I like to: </h2>
+<p align="center">
 <img align="left" src="climbing.gif"  width="400" height= "630" alt="climbing" />
 <p>
         <img align="center" src="https://media.tenor.com/8GgvLjlWbOsAAAAC/chess.gif" height= "157" width="350" alt="chess" />
@@ -88,5 +89,5 @@
         <br>
         <img align="center" src="eldenring.gif"  width="350" height= "157" alt="eldenring" />
 </p>
-
+</p>
 <img align="center" alt="flying cat" width="900" src= "https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif">
