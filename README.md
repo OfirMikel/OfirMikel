@@ -1,5 +1,5 @@
 <h1 align="center"><img align="center" alt="hello" width="50" src= "https://cliply.co/wp-content/uploads/2021/08/472108440_HELLO_STICKER_400px.gif"> I'm Ofir Mikel</h1>
-<img align="center" alt="flying cat" width="900" src= "https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif">
+<img align="center" alt="skydiving" width="1000" src= "skydiving.gif">
 <h4 align="center">A computer science student , passionate frontend and mobile developer from Israel</h4>
 <img align="right" alt="coding gif" width="350" src= "https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
@@ -80,4 +80,4 @@
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
-<img align="center" alt="skydiving" width="1000" src= "skydiving.gif">
+<img align="center" alt="flying cat" width="900" src= "https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif">
