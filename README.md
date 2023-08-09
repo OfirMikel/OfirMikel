@@ -76,7 +76,6 @@
         </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ofirmikel&show_icons=true&locale=en&layout=compact" alt="ofirmikel" /></p>
 <p><img align="center" src="https://media.tenor.com/8GgvLjlWbOsAAAAC/chess.gif"  width="900" alt="chess" /></p>
 
 <img align="center" alt="flying cat" width="900" src= "https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif">
