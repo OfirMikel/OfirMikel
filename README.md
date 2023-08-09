@@ -82,11 +82,11 @@
 <p>
         <img align="center" src="https://media.tenor.com/8GgvLjlWbOsAAAAC/chess.gif" height= "157" width="350" alt="chess" />
         <br>
-        <img align="center" src="eldenring.gif"  width="350" height= "157" alt="eldenring" />
+        <img align="center" src="rocketleague.gif"  width="350"  height= "157" alt="rocketleague" />
         <br>
         <img align="center" src="hogwartslegecy.gif"  width="350" height= "157 alt="hogwartslegecy" />
         <br>
-        <img align="center" src="rocketleague.gif"  width="350"  height= "157" alt="rocketleague" />
+        <img align="center" src="eldenring.gif"  width="350" height= "157" alt="eldenring" />
 </p>
 
 <img align="center" alt="flying cat" width="900" src= "https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif">
