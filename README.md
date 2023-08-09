@@ -75,7 +75,7 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
         </a>
 </p>
-
+<h2 align="left">In the spear time I like to play: </h2>
 <p><img align="center" src="https://media.tenor.com/8GgvLjlWbOsAAAAC/chess.gif"  width="900" alt="chess" /></p>
 
 <img align="center" alt="flying cat" width="900" src= "https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif">
