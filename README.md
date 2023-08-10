@@ -79,7 +79,7 @@
 <br>
 <h2 align="left">When I am not programming I like to: </h2>
 <p align="center">
-        <img align="left" src="climbing.gif"  width="400" height= "630" alt="climbing" />
+        <img align="left" src="climbing.gif"  width="450" height= "630" alt="climbing" />
         <p>
                 <img align="center" src="https://media.tenor.com/8GgvLjlWbOsAAAAC/chess.gif" height= "157" width="350" alt="chess" />
                 <br>
