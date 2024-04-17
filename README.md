@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mikelofir@gmail.com**
 
-- ⚡ Fun fact **- I am Extreme Junky - climbing, skydiving etc..**
+- ⚡ Fun fact **- I am an extreme junky - climbing, skydiving etc..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
