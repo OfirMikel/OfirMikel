@@ -35,3 +35,6 @@
         </p>
 </p>
 <img align="center" alt="flying cat" width="900" src= "https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif">
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ofirmikel&show_icons=true&theme=dark&locale=en" alt="ofirmikel" /></p>
+
