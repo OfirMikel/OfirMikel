@@ -2,7 +2,7 @@
 <img align="center" alt="skydiving" width="1000" height= "300" src= "skydiving.gif">
 <h4 align="center">A computer science student , passionate frontend and mobile developer from Israel</h4>
 
-- 🔭 I’m currently working on [WFS](https://github.com/OfirMikel/WFS-Demonstration)
+- 🔭 I’m currently working on BattleWord and Technion
 
 - 🌱 I’m currently learning **React.js, MongoDB, node.js, Kotlin**
 
