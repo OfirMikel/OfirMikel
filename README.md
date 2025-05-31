@@ -2,15 +2,11 @@
 <img align="center" alt="skydiving" width="1000" height= "300" src= "skydiving.gif">
 <h4 align="center">A computer science student , passionate frontend and mobile developer from Israel</h4>
 
-- 🔭 I’m currently working on BattleWord and Technion
-
-- 🌱 I’m currently learning **React.js, MongoDB, node.js, Kotlin**
-
-- 👨‍💻 My portfolio [Ofir Mikel Portfolio](https://ofirmikel.github.io/Portfolio/)
+- 🔭 I’m currently working at BattleWord and Technion
 
 - 📫 How to reach me **mikelofir@gmail.com**
 
-- ⚡ Fun fact **- I am an extreme junky - climbing, skydiving etc..**
+- ⚡ Fun fact **- I am an extreme sport lover - climbing, skydiving etc..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
